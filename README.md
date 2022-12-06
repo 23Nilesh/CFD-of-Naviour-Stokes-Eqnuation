@@ -1,2 +1,2 @@
-# CFD-of-Naviour-Stokes-Eqnuation
+# CFD-of-Naviour-Stokes-Equation
 > Using Matlab Software
